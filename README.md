@@ -1,37 +1,120 @@
 Hi there, I'm Manunayaka C 👋
-Product Quality Engineer | 5G Core Network Testing & QA Automation
-I test and validate 5G core networks at Niral Networks, Bangalore, India — 2+ years of hands-on experience across multi-vendor 5G environments.
-🔭 What I Work On
-5G Core NF Testing — UPF, AMF, SMF validation
-QA Automation — Test frameworks built with Selenium WebDriver + Java
-Multi-vendor Interoperability — gNB integration across vendors
-MCX Integration — mission-critical device & communication testing
-🏛️ Notable Project
-NCR 5G MCX POC — Mathura Railway Junction Delivered under RDSO guidelines — validating 5G Mission-Critical Services (MCX) for railway communication systems.
-🌱 Currently
-Open to new opportunities in telecom & semiconductor testing roles.
+
+Product Quality Engineer | 5G Core Network Testing | QA Automation
+
+I'm a Product Quality Engineer at Niral Networks, Bengaluru, India, with 2+ years of experience in testing and validating 5G Core Networks across multi-vendor environments. I specialise in ensuring the quality, reliability, and interoperability of cloud-native telecom solutions through comprehensive testing and automation.
+
+---
+
+🚀 About Me
+
+- 📡 Testing and validating 5G Core Network Functions (UPF, AMF, SMF)
+- 🤖 Building and maintaining QA Automation Frameworks using Java and Selenium WebDriver
+- 🔄 Performing Multi-vendor Interoperability Testing with various gNB vendors
+- 📱 Validating Mission Critical Services (MCX) and communication devices
+- 🐧 Working with Linux-based environments for telecom testing and debugging
+- 🎯 Passionate about delivering high-quality, reliable, and scalable telecom solutions
+
+---
+
+💼 Professional Experience
+
+Product Quality Engineer
+
+Niral Networks | Bengaluru, India
+
+- Perform functional, integration, regression, and end-to-end testing of 5G Core Network Functions, including UPF, AMF, and SMF.
+- Validate multi-vendor interoperability between 5G Core components and different gNB vendors.
+- Design, develop, and maintain automation test frameworks using Java and Selenium WebDriver.
+- Analyse logs, identify defects, troubleshoot issues, and collaborate with development teams to improve product quality.
+- Execute test plans and ensure software releases meet quality, performance, and reliability standards.
+
+---
+
+🏆 Featured Project
+
+NCR 5G MCX Proof of Concept – Mathura Railway Junction
+
+Contributed to the successful validation of 5G Mission Critical Services (MCX) for railway communication systems under RDSO guidelines.
+
+Key Contributions:
+
+- Performed end-to-end functional validation of MCX services.
+- Conducted interoperability testing across multiple devices and network components.
+- Validated mission-critical communication workflows for railway operations.
+- Supported issue analysis, debugging, and verification throughout the project lifecycle.
+
+---
+
+🛠️ Technical Skills
+
+Telecom Technologies
+
+- 5G Core Networks
+- UPF, AMF, SMF
+- Multi-vendor Interoperability
+- Mission Critical Services (MCX)
+
+Testing
+
+- Functional Testing
+- Integration Testing
+- Regression Testing
+- End-to-End Testing
+- System Validation
+
+Automation
+
+- Java
+- Selenium WebDriver
+- Test Automation Framework Development
+
+Tools & Platforms
+
+- Git & GitHub
+- Linux
+- Postman
+
+---
+
+🌱 Currently Learning
+
+- Advanced 5G Core Network Testing
+- Cloud-Native Telecom Technologies
+- CI/CD for Test Automation
+- Network Automation
+
+---
+
 💬 Ask Me About
-5G Core (UPF/AMF/SMF), Test Automation, Multi-vendor Interoperability, MCX
-🛠️ Tech Stack
-� � �
+
+- 5G Core Network Testing
+- UPF, AMF, and SMF Validation
+- QA Automation with Java & Selenium
+- Multi-vendor Interoperability Testing
+- Mission Critical Services (MCX)
+
+---
+
 📌 Featured Projects
-GitHub lets you pin up to 6 repos directly on your profile — push a project, pin it, and send me the link so I can write a one-line blurb for it here.
-📊 GitHub Stats
-� �
-📫 Connect With Me
-📧 manumn241098@gmail.com
-💼 linkedin.com/in/manu-c-9a764b156
-<!--
-**Manu6051/manu6051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+GitHub allows you to pin up to six repositories. I'm currently working on publishing projects that showcase my experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- QA Automation Frameworks
+- Selenium with Java
+- Telecom Testing Utilities
+- API Testing
+- Linux Automation Scripts
+- 5G Testing Tools
+
+---
+
+📫 Let's Connect
+
+📧 Email: manumn241098@gmail.com
+
+💼 LinkedIn: linkedin.com/in/manu-c-9a764b156
+
+---
+
+⭐ Actively exploring opportunities in Telecom, Networking, Semiconductor Validation, and QA Automation, where I can contribute to building reliable, high-quality next-generation communication systems.
