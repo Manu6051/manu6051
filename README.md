@@ -2,7 +2,7 @@ Hi there, I'm Manunayaka C 👋
 
 Product Quality Engineer | 5G Core Network Testing | QA Automation
 
-I'm a Product Quality Engineer at Niral Networks, Bengaluru, India, with 2+ years of experience in testing and validating 5G Core Networks across multi-vendor environments. I specialise in ensuring the quality, reliability, and interoperability of cloud-native telecom solutions through comprehensive testing and automation.
+I'm a Product Quality Engineer at Niral Networks, Bengaluru, India, with 3 years of experience in testing and validating 5G Core Networks across multi-vendor environments. I specialise in ensuring the quality, reliability, and interoperability of cloud-native telecom solutions through comprehensive testing and automation.
 
 ---
 
